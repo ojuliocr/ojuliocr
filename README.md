@@ -1,4 +1,4 @@
-# 🎮 Julio Rocha
+# 🧐 About me:
 **`Game Developer`**
 
 Game developer with experience in gameplay systems and interactive projects. Passionate about games and educational technology, currently working with Godot and real-time 3D.
