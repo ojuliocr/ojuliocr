@@ -21,6 +21,14 @@ Game developer with experience in gameplay systems and interactive projects. Pas
 
 <img 
     align="left" 
+    alt="Visual Studio Code" 
+    title="Visual Studio Code"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" 
+/>
+<img 
+    align="left" 
     alt="Construct 3" 
     title="Construct 3"
     width="40px" 
