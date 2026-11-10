@@ -1,12 +1,25 @@
 # Julio Rocha
 
-Game and full stack developer from Brazil. Since 2019 in games: gameplay programming, technical lead and QA on educational games shipped at scale, and now web development with React, TypeScript and Supabase.
+Game and full stack developer from Brazil. Since 2019 in games: gameplay programming, technical lead and QA on educational games shipped at scale, and web development with React, TypeScript and Supabase.
 
 **Currently**
-- Building [Crioteca](https://crioteca.com.br), an educational platform for Brazilian schools, solo and end to end: Godot app for Android tablets, Next.js/TypeScript dashboard and Supabase backend.
+- Running [Dudoru](https://dudoru.com.br), my solo studio for short educational browser games: design, programming, audio and release, end to end. Games are built in Godot for Web, aligned to the Brazilian curriculum (BNCC), and available for licensing or custom development for edtechs and publishers.
 - Shipping small games at jams in Godot, Unity and LÖVE2D.
 
-**Recent games** (playable in the browser)
+**Dudoru games** (playable in the browser at [dudoru.itch.io](https://dudoru.itch.io))
+
+| Game | Subject | Concept |
+|---|---|---|
+| [Letrinhas: Comidas](https://dudoru.itch.io/letrinhas-comidas) | Language | Unscrambling words, with read-aloud audio |
+| [Um, Dois, Peixe!](https://dudoru.itch.io/counting-fishies) | Math | Collecting and organizing data |
+| [Ateliê Espelhado](https://dudoru.itch.io/mirror-atelier) | Math | Symmetry with stained glass |
+| [Quanto Pesa?](https://dudoru.itch.io/pick-and-weigh) | Math | Equality and equivalence on a balance scale |
+| [Bosque dos Padrões](https://dudoru.itch.io/pattern-grove) | Math | Completing repeating patterns |
+| [Fatia por Fatia](https://dudoru.itch.io/slice-by-slice) | Math | Fractions at a pizza counter |
+
+All games share a reusable Godot kit (UI theme, progress, tutorial hints, TTS) and are deployed to itch.io automatically through GitHub Actions. The studio site runs on Astro and Cloudflare.
+
+**Recent jam games**
 
 | Game | Engine | Jam | My role |
 |---|---|---|---|
@@ -18,7 +31,7 @@ Earlier: technical lead on [SLANGS – Os Seres Mágicos](https://sisttechstudio
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=godot,unity,cs,lua,ts,js,react,nextjs,nodejs,supabase,postgres,git,githubactions" alt="Godot, Unity, C#, Lua, TypeScript, JavaScript, React, Next.js, Node.js, Supabase, PostgreSQL, Git, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=godot,unity,cs,lua,ts,js,react,nextjs,astro,nodejs,supabase,postgres,cloudflare,git,githubactions" alt="Godot, Unity, C#, Lua, TypeScript, JavaScript, React, Next.js, Astro, Node.js, Supabase, PostgreSQL, Cloudflare, Git, GitHub Actions" />
 
 Also: GDScript, Construct 3, GLSL shaders, FMOD, manual/functional/regression testing
 
@@ -27,4 +40,4 @@ Also: GDScript, Construct 3, GLSL shaders, FMOD, manual/functional/regression te
 
 **Contact**
 
-[LinkedIn](https://linkedin.com/in/ojuliocr) · [itch.io](https://mutantcapybara.itch.io) · ojuliocr@gmail.com
+[LinkedIn](https://linkedin.com/in/ojuliocr) · [Dudoru](https://dudoru.com.br) · [itch.io](https://mutantcapybara.itch.io) · ojuliocr@gmail.com
